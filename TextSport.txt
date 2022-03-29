@@ -1,0 +1,9 @@
+1. La ce echipa joaca Mbappe? 
+A = PSG  ||| B = BARCA ||| C = STEAUA ||| D = DINAMO
+2. Mai joaca Ronaldo football? 
+A = DA  ||| B = NU ||| C = NU STIU ||| D = POSIBIL
+3. Care e cea mai buna echipa a Frantei la momentul actual? 
+A = PSG  ||| B = LIVERPOOL ||| C = GALATASARAY ||| D = AS MONACO
+A
+A
+A

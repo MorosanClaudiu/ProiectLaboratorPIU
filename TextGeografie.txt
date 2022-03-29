@@ -1,0 +1,9 @@
+1. Care este capitala Bulgariei?
+A = BUDAPESTA  ||| B = SOFIA ||| C = MOSCOVA ||| D = VIENA
+2. Cu ce tari se invecineaza Romania?
+A = POLONIA ||| B = RUSIA ||| C = MUNTENEGRU ||| D = UNGARIA
+3. Prin care capitala trece Dunarea?
+A = MOSCOVA ||| B = BUDAPESTA ||| C = TOKYO ||| D = BERLIN
+
+
+

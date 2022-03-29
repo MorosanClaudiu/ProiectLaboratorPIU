@@ -1,0 +1,6 @@
+1. In ce an a inceput primul razboi mondial?
+A = 1910 ||| B = 1911 ||| C = 1912 ||| D = 1914
+2. In primul razboi mondial a castigat Romania?
+A = DA ||| B = NU
+3. In ce an a inceput al doilea razboi mondial?
+A = 1939 ||| B = 1941 ||| C = 1942 ||| D = 1940
